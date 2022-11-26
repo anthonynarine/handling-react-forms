@@ -25,4 +25,5 @@ When the user types in a book and hits submit:
     2. BookList will be responsible for taking a look at each 
        object inside the Books
 
-       
+            
+   THIS PROJECTS MAIN FOCUS WILLL BE HOW TO CORRECTLY UPDATE ARRAYS/OBJECTS
