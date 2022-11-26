@@ -27,3 +27,10 @@ When the user types in a book and hits submit:
 
             
    THIS PROJECTS MAIN FOCUS WILLL BE HOW TO CORRECTLY UPDATE ARRAYS/OBJECTS
+
+   ~ Deleteing a book
+
+   1. Create a function to get book by id
+
+
+
